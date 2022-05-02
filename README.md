@@ -6,3 +6,9 @@
  Repositório criado para os estudos de Git do Curso em Video.
  
  Linha adicionada direto do site!
+ 
+ Lista de tarefas:
+ - [ ] Criar página inicial
+ - [ ] Criar página do botão informações
+ - [ ] Finalizar a reunião sobre o projeto
+
